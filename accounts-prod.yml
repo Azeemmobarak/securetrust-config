@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to SecureTrust Bank accounts related PRODUCTION APIs "
   contactDetails:
     name: "James Anderson - Product Owner"
-    email: "ajames@securetrust.com"
+    email: "{cipher}558f6422a0b16c4cdf95c5b0dad3b0680ca1516c049f0d9f39b4e997c08df7385bd4b033bcf95496c7b422f9cf8961d6"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
