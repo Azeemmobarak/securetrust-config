@@ -1,80 +1,40 @@
-\# 🔐 SecureTrust Config
+# 🔐 SecureTrust Config
 
+> **Centralized configuration management for the SecureTrust microservices ecosystem.**
 
+This repository contains centralized, environment-specific configuration files used by the **Spring Cloud Config Server** to manage configuration across SecureTrust microservices.
 
-> \*\*Centralized configuration management for the SecureTrust microservices ecosystem.\*\*
+---
 
-
-
-This repository contains centralized, environment-specific configuration files used by the \*\*Spring Cloud Config Server\*\* to manage configuration across SecureTrust microservices.
-
-
-
-\---
-
-
-
-\## 🏗️ Services
-
-
+## 🏗️ Services
 
 | Service | Description |
-
 |---|---|
+| 💳 **Accounts** | Account-related configuration |
+| 💰 **Cards** | Card-related configuration |
+| 🏦 **Loans** | Loan-related configuration |
 
-| 💳 \*\*Accounts\*\* | Account-related configuration |
+---
 
-| 💰 \*\*Cards\*\* | Card-related configuration |
+## 🌎 Environments
 
-| 🏦 \*\*Loans\*\* | Loan-related configuration |
+🟢 **Default** &nbsp; | &nbsp; 🟡 **QA** &nbsp; | &nbsp; 🔴 **Production**
 
+---
 
-
-\---
-
-
-
-\## 🌎 Environments
-
-
-
-🟢 \*\*Default\*\* \&nbsp; | \&nbsp; 🟡 \*\*QA\*\* \&nbsp; | \&nbsp; 🔴 \*\*Production\*\*
-
-
-
-\---
-
-
-
-\## 📂 Configuration Files
-
-
+## 📂 Configuration Files
 
 ```text
-
 securetrust-config/
-
 │
-
 ├── 📄 accounts.yml
-
 ├── 📄 accounts-qa.yml
-
 ├── 📄 accounts-prod.yml
-
 │
-
 ├── 📄 cards.yml
-
 ├── 📄 cards-qa.yml
-
 ├── 📄 cards-prod.yml
-
 │
-
 ├── 📄 loans.yml
-
 ├── 📄 loans-qa.yml
-
 └── 📄 loans-prod.yml
-
