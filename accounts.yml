@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to SecureTrust Bank accounts related local APIs "
   contactDetails:
     name: "Azeem Mobarak - Consultant Development"
-    email: "azeemmubarak.29@gmail.com"
+    email: "{cipher}e32c5e40ae5c0b1e8ca83b7379838c69e531390605f6505174737e559690f4577fd10013682be9a0bf917196f06941b8"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
