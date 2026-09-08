@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to SecureTrust Bank accounts related PRODUCTION APIs "
+  message: "Welcome to SecureTrust Bank accounts related PROD APIs "
   contactDetails:
     name: "James Anderson - Product Owner"
     email: "{cipher}558f6422a0b16c4cdf95c5b0dad3b0680ca1516c049f0d9f39b4e997c08df7385bd4b033bcf95496c7b422f9cf8961d6"
