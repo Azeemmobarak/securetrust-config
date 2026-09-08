@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to SecureTrust Bank cards related PROD APIs afad"
+  message: "Welcome to SecureTrust Bank cards related PROD APIs007"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "hsandra@securetrust.com"
