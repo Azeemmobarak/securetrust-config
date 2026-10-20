@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to SecureTrust Bank accounts related PROD APIs"
   contactDetails:
     name: "Avery Quinn - Product Owner"
-    email: "qavery@securetrust.com"
+    email: "{cipher}3ee9d784ea1dcc38bd6c380d0dbc3f29a82839abcef4589b9c9e8b07939694cfbc7440be9e00f53c4e66e7e7ed09371b"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
