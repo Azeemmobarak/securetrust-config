@@ -2,10 +2,10 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to SecureTrust Bank cards related local APIs "
+  message: "Welcome to SecureTrust Bank cards related Local APIs"
   contactDetails:
-    name: "Dragos Lech - Developer"
-    email: "ldragos@securetrust.com"
+    name: "Daniel Hayes - Developer"
+    email: "hdaniel@securetrust.com"
   onCallSupport:
     - (412) 419-3491
     - (915) 382-1932
