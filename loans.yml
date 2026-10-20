@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to SecureTrust Bank loans related local APIs "
+  message: "Welcome to SecureTrust Bank loans related Local APIs"
   contactDetails:
     name: "Amaal Grega - Developer"
     email: "gamaal@securetrust.com"
