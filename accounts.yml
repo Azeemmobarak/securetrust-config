@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to SecureTrust Bank accounts related Local test APIs"
+  message: "Welcome to SecureTrust Bank accounts related Local Demo APIs"
   contactDetails:
     name: "Nathan Brooks  - Developer"
     email: "bnathan@securetrust.com"
